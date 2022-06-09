@@ -36,3 +36,5 @@ let buttonNext = document.getElementById("button");
 buttonNext.addEventListener("click", function () {
   CallMeme();
 });
+
+CallMeme();
